@@ -47,8 +47,6 @@ df.head()
 
 
 
-
-
 ## KMeans Clustering
 
 ```python
